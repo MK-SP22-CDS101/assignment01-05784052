@@ -34,7 +34,7 @@ By the end of the course, students will be able to:
 
 * Use GitHub for creating a reproducible research document.
 
-    -- My GitHub username is: _05784052_.
+      -- My GitHub username is: _05784052_.
   
 * Obtain, clean, transform, and visualize a dataset using the R programming language.
 
@@ -46,11 +46,17 @@ By the end of the course, students will be able to:
 
 ## Running R code in a code chunk.
 
+ __## [1] 7__
+ 
 The output of first line of code is not printed out because it is assigned to a variable instead.
 
 The second line of output is printed out instead, but this means that the calculated value has not been saved for future use.
 
 ## Displaying Graphs
+```{r}
+x <- 2+2
+x + 3
+```
 
 
 
