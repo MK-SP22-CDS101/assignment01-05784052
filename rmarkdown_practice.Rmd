@@ -34,7 +34,7 @@ By the end of the course, students will be able to:
 
 * Use GitHub for creating a reproducible research document.
 
-    -- My GitHub username is: _write_your_github_username_here_in_italic_text_.
+    -- My GitHub username is: _05784052_.
   
 * Obtain, clean, transform, and visualize a dataset using the R programming language.
 
